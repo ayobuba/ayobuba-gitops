@@ -1,0 +1,5 @@
+# Local Charts
+**/charts/*
+.DS_Store
+.idea
+```
